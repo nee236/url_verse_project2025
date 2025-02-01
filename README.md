@@ -1,5 +1,6 @@
 # url_verse_project2025
 Instructions on how to set up the project for testing on localhost
+
 1.install xampp(xampp-windows-x64-8.1.25-0-VS16-installer) on your computer
 2.after installing xammp start your Apache and Mysql
 3.Go to xampp/htdocs folder and in drive(C:\xampp\htdocs) path write cmd than cmd terminal will open
